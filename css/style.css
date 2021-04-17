@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#input{
+    border: 5px solid #000;
+    border-radius: 25px;
+    margin: 50px;
+    padding: 50px;
+}

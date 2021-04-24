@@ -37,6 +37,7 @@ function addText(x){
     let valuee = localStorage.setItem("input",input)
     valuee = parseInt(valuee)
     let amm = document.getElementById("myOl").appendChild(li)
+    
 
     /*=======================
     let output = document.querySelector(".output")

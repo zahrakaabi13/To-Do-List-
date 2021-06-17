@@ -34,8 +34,6 @@ function addText(x){
     let li = document.createElement("LI")
     let valueInput = document.createTextNode(input)
     li.appendChild(valueInput)
-    let valuee = localStorage.setItem("input",input)
-    valuee = parseInt(valuee)
     let amm = document.getElementById("myOl").appendChild(li)
     
 
